@@ -1,8 +1,11 @@
 # re-fancoil
-A proof-of-concept exercise, deconstruct [re-frame][] first, then refactor it with [integrant][]. 
+Only a proof-of-concept exercise, deconstruct [re-frame][] first, then refactor it with [integrant][]. 
+
+Don't use this in project, hava a look at [fancoil].
 
 [re-frame]:https://github.com/day8/re-frame
 [integrant]:https://github.com/weavejester/integrant
+[fancoil]:https://github.com/itarck/fancoil
 
 ## The ideal system structure
 * **Parts**: parts carry new features. Parts are immutable data and functions.
